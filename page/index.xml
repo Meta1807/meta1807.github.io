@@ -2,24 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Meta</title>
-    <link>https://meta1807.github.io/page/</link>
+    <link>https://ardizza.xyz/page/</link>
     <description>Recent content in Pages on Meta</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>adrian@ardizza.xyz (Adrian Ardizza)</managingEditor>
     <webMaster>adrian@ardizza.xyz (Adrian Ardizza)</webMaster>
     <lastBuildDate>Mon, 17 Aug 2020 14:43:43 +0700</lastBuildDate>
     
-	<atom:link href="https://meta1807.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ardizza.xyz/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>https://meta1807.github.io/page/about/</link>
+      <link>https://ardizza.xyz/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>adrian@ardizza.xyz (Adrian Ardizza)</author>
-      <guid>https://meta1807.github.io/page/about/</guid>
+      <guid>https://ardizza.xyz/page/about/</guid>
       <description>Who am I? My name is Adrian Ardizza. I am a web developer and currently a first-year student at FASILKOM UI. My hobbies are mostly programming and gaming with some forays into music (specifically guitar).
 Organizational Experience  Former President of the N3TS ICT Club (2019-2020) - SMA Negeri 3 Kota Tangerang Selatan  Academic History:  SDN Menteng 02 Pagi (2008-2011) SD Islam Terpadu Auliya Bintaro (2011-2014) SMP Islam Terpadu Cikal Harapan BSD (2014-2017) SMA Negeri 3 Kota Tangerang Selatan (2017-2020) Ilmu Komputer - FASILKOM Universitas Indonesia (2020-)  </description>
+    </item>
+    
+    <item>
+      <title>My Projects</title>
+      <link>https://ardizza.xyz/page/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>adrian@ardizza.xyz (Adrian Ardizza)</author>
+      <guid>https://ardizza.xyz/page/projects/</guid>
+      <description></description>
     </item>
     
   </channel>

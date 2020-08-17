@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Meta</title>
-    <link>https://meta1807.github.io/page/blog/</link>
+    <link>https://ardizza.xyz/page/blog/</link>
     <description>Recent content in Blog on Meta</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>adrian@ardizza.xyz (Adrian Ardizza)</managingEditor>
     <webMaster>adrian@ardizza.xyz (Adrian Ardizza)</webMaster>
     <lastBuildDate>Mon, 17 Aug 2020 14:43:43 +0700</lastBuildDate>
     
-	<atom:link href="https://meta1807.github.io/page/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ardizza.xyz/page/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Why Did I Even Make This</title>
-      <link>https://meta1807.github.io/page/blog/posts/why-did-i-even-make-this/</link>
+      <link>https://ardizza.xyz/page/blog/posts/why-did-i-even-make-this/</link>
       <pubDate>Mon, 17 Aug 2020 14:43:43 +0700</pubDate>
       <author>adrian@ardizza.xyz (Adrian Ardizza)</author>
-      <guid>https://meta1807.github.io/page/blog/posts/why-did-i-even-make-this/</guid>
+      <guid>https://ardizza.xyz/page/blog/posts/why-did-i-even-make-this/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur dictum tempus risus, id pellentesque mi faucibus id. Proin laoreet lorem dapibus nulla varius tincidunt. Sed semper nibh ante, a aliquet leo consequat ut. Fusce rutrum ligula diam, at dapibus nulla sagittis eget. Morbi egestas velit ac aliquet placerat. Maecenas pulvinar ac ligula quis aliquet. Donec cursus auctor efficitur.
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus lacinia massa blandit nisl tincidunt vulputate.</description>
     </item>
