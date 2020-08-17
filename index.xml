@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Meta</title>
-    <link>https://username.github.io/</link>
+    <link>https://meta1807.github.io/</link>
     <description>Recent content in Home on Meta</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>adrian@ardizza.xyz (Adrian Ardizza)</managingEditor>
     <webMaster>adrian@ardizza.xyz (Adrian Ardizza)</webMaster>
     <lastBuildDate>Mon, 17 Aug 2020 14:43:43 +0700</lastBuildDate>
     
-	<atom:link href="https://username.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://meta1807.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Why Did I Even Make This</title>
-      <link>https://username.github.io/page/blog/posts/why-did-i-even-make-this/</link>
+      <link>https://meta1807.github.io/page/blog/posts/why-did-i-even-make-this/</link>
       <pubDate>Mon, 17 Aug 2020 14:43:43 +0700</pubDate>
       <author>adrian@ardizza.xyz (Adrian Ardizza)</author>
-      <guid>https://username.github.io/page/blog/posts/why-did-i-even-make-this/</guid>
+      <guid>https://meta1807.github.io/page/blog/posts/why-did-i-even-make-this/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur dictum tempus risus, id pellentesque mi faucibus id. Proin laoreet lorem dapibus nulla varius tincidunt. Sed semper nibh ante, a aliquet leo consequat ut. Fusce rutrum ligula diam, at dapibus nulla sagittis eget. Morbi egestas velit ac aliquet placerat. Maecenas pulvinar ac ligula quis aliquet. Donec cursus auctor efficitur.
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus lacinia massa blandit nisl tincidunt vulputate.</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://username.github.io/page/about/</link>
+      <link>https://meta1807.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>adrian@ardizza.xyz (Adrian Ardizza)</author>
-      <guid>https://username.github.io/page/about/</guid>
+      <guid>https://meta1807.github.io/page/about/</guid>
       <description>Who am I? My name is Adrian Ardizza. I am a web developer and currently a first-year student at FASILKOM UI. My hobbies are mostly programming and gaming with some forays into music (specifically guitar).
 Organizational Experience  Former President of the N3TS ICT Club (2019-2020) - SMA Negeri 3 Kota Tangerang Selatan  Academic History:  SDN Menteng 02 Pagi (2008-2011) SD Islam Terpadu Auliya Bintaro (2011-2014) SMP Islam Terpadu Cikal Harapan BSD (2014-2017) SMA Negeri 3 Kota Tangerang Selatan (2017-2020) Ilmu Komputer - FASILKOM Universitas Indonesia (2020-)  </description>
     </item>
