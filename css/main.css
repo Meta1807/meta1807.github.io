@@ -22,6 +22,40 @@ body {
 }
 }
 
+.default-outline {
+ 
+ 
+  color: #fff;
+  opacity: 100%;
+  transition: opacity 0.8s
+ 
+}
+ 
+.home-links a, .home-links li {
+  margin: 0 4px 0 4px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 17px;
+} 
+ 
+.default-outline:hover {
+  color: #ff5533;
+  opacity: 80%;
+  transition: color 0.5s
+}
+
+.helvetica {
+    font-family: "Helvetica Neue", Helvetica, Arial
+}
+
+.open-sans {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.blog-post {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
 p {
   line-height: 1.5;
   margin: 6px 0;
@@ -514,7 +548,8 @@ footer .theme-by {
 }
 .intro-header .page-heading,
 .intro-header .tags-heading,
-.intro-header .categories-heading {
+.intro-header .categories-heading,
+.blog-heading {
   text-align: center;
 }
 .intro-header.big-img .page-heading,
@@ -582,7 +617,7 @@ footer .theme-by {
   .intro-header .page-heading h1,
   .intro-header .tags-heading h1,
   .intro-header .categories-heading h1 {
-    font-size: 80px;
+    font-size: 70px;
   }
   .intro-header .post-heading h1 {
     font-size: 50px;
