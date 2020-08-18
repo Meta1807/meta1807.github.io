@@ -30,7 +30,9 @@ body {
   transition: opacity 0.8s
  
 }
- 
+
+/* Homescreen Links */
+
 .home-links a, .home-links li {
   margin: 0 4px 0 4px;
   font-weight: 600;
@@ -582,7 +584,7 @@ footer .theme-by {
 .intro-header .tags-heading h1,
 .intro-header .categories-heading h1 {
   margin-top: 0;
-  font-size: 40px;
+  font-size: 30px;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
@@ -590,7 +592,7 @@ footer .theme-by {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 21px;
+  font-size: 18px;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
